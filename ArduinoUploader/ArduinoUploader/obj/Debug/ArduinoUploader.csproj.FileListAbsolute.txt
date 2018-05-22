@@ -1,0 +1,9 @@
+C:\Mahesh-Personal\Visual studio projects\ArduinoUploader\ArduinoUploader\bin\Debug\ArduinoUploader.exe.config
+C:\Mahesh-Personal\Visual studio projects\ArduinoUploader\ArduinoUploader\bin\Debug\ArduinoUploader.exe
+C:\Mahesh-Personal\Visual studio projects\ArduinoUploader\ArduinoUploader\bin\Debug\ArduinoUploader.pdb
+C:\Mahesh-Personal\Visual studio projects\ArduinoUploader\ArduinoUploader\obj\Debug\ArduinoUploader.csprojResolveAssemblyReference.cache
+C:\Mahesh-Personal\Visual studio projects\ArduinoUploader\ArduinoUploader\obj\Debug\ArduinoUploader.Form1.resources
+C:\Mahesh-Personal\Visual studio projects\ArduinoUploader\ArduinoUploader\obj\Debug\ArduinoUploader.Properties.Resources.resources
+C:\Mahesh-Personal\Visual studio projects\ArduinoUploader\ArduinoUploader\obj\Debug\ArduinoUploader.csproj.GenerateResource.Cache
+C:\Mahesh-Personal\Visual studio projects\ArduinoUploader\ArduinoUploader\obj\Debug\ArduinoUploader.exe
+C:\Mahesh-Personal\Visual studio projects\ArduinoUploader\ArduinoUploader\obj\Debug\ArduinoUploader.pdb
